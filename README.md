@@ -1,13 +1,9 @@
 # Maps 3 + 4 project! #
 
 
-###Dijkstra and REPL code
+###Written by Suyash Kothari and Benjamin Goff
 
-REPL and commands structure: Benjamin Goff\
-Dijkstra and graph classes: Suyash Kothari
 
-###Division of Labor
-Initially, Suyash worked on combining our codebases and Benjamin worked on setting up our front-end files and canvas. Ever since then, we have coded synchronously together, from the back-end handlers to the front-end route and map rendering, scrolling, panning, zooming. 
 
 
 ###Known bugs
