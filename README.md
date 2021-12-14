@@ -6,7 +6,7 @@
 
 
 
-###Known bugs###
+###Known bugs
 Sometimes there is a problem with our backend Dijkstra algorithm (it seems to take a long time for very long routes, but this is purely because of the back-end and not a problem with our Maps 3+4 code). The REPL commands all work and the GUI commands all work. 
 
 ###Design details
